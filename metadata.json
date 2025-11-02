@@ -1,0 +1,5 @@
+{
+  "name": "Facial Emotion Detector",
+  "description": "An AI-powered application that analyzes facial expressions in images to detect and categorize emotions. Upload an image, and the app will identify the primary emotion and provide a brief description.",
+  "requestFramePermissions": []
+}
